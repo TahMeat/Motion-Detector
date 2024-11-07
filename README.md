@@ -61,4 +61,4 @@ Run the program
 
 #### Arguments
 
-- `input_file`: The path to the video file.
+- `input_file`: The path to the video file. Please note that the video must be static, with no camera movements, similar to a security video feed.
