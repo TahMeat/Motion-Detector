@@ -62,3 +62,7 @@ Run the program
 #### Arguments
 
 - `input_file`: The path to the video file. Please note that the video must be static, with no camera movements, similar to a security video feed.
+
+## Acknowledgements
+
+ - [Guinea Pig Video Example on Website]([https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct](https://www.youtube.com/watch?v=FM9SemMfknA))
