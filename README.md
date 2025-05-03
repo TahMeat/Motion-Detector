@@ -65,4 +65,4 @@ Run the program
 
 ## Acknowledgements
 
- - Guinea Pig Video Example on [Youtube](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)
+ - Guinea Pig Video Example on [Youtube](https://www.youtube.com/watch?v=FM9SemMfknA)
